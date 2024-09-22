@@ -45,9 +45,7 @@ PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.audio.zoom.support=true \
     ro.vendor.audio.zoom.type=1 \
     vendor.audio.spkcal.copy.inhal=true \
-    vendor.audio.usb.disable.sidetone=trueI \
-    ro.hardware.fingerprint=fpc \
-    persist.vendor.sys.fp.vendor=fpc
+    vendor.audio.usb.disable.sidetone=true
 
 PRODUCT_ODM_PROPERTIES += \
     aaudio.mmap_policy=1 \
